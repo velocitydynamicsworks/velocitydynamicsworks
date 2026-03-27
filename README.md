@@ -1,18 +1,18 @@
-# Hi there 👋 I'm velocitydynamicsworks
+# Hi there I'm velocitydynamicsworks
 
-## 🧠 About Me
+## About Me
 Full Stack Developer passionate about building AI powered web applications.
 Currently building educational technology tools for UK students.
 
-## 🚀 My Projects
+## My Projects
 
 ### GCSE Maths AI Tutor
 An AI powered maths tutor for UK Functional Skills Level 2 students.
-- 🔗 [Live App](https://gcse-maths-react.vercel.app)
-- 💻 [Source Code](https://github.com/velocitydynamicsworks/gcse-maths-react)
+-  [Live App](https://gcse-maths-react.vercel.app)
+-  [Source Code](https://github.com/velocitydynamicsworks/gcse-maths-react)
 - Built with React, Flask, Groq AI, Supabase
 
-## 🛠️ Technologies I Use
+## Technologies I Use
 
 **Frontend**
 - React
@@ -38,8 +38,8 @@ An AI powered maths tutor for UK Functional Skills Level 2 students.
 - Render
 - GitHub
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=velocitydynamicsworks&show_icons=true&theme=tokyonight)
 
-## 📫 Contact Me
+## Contact Me
 - GitHub: [@velocitydynamicsworks](https://github.com/velocitydynamicsworks)
